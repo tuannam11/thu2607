@@ -1,1 +1,1 @@
-# Day la file dau tien, 1 , thu lenh pull, conflict NE CAU OI
+# Day la file dau tien, 1 , thu lenh pull, khong conflict nua
