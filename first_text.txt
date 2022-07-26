@@ -1,1 +1,1 @@
-# Day la file dau tien, 1 , thu lenh pull
+# Day la file dau tien, 1 , thu lenh pull, conflict ne 
